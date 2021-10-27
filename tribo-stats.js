@@ -1,10 +1,3 @@
-javascript:
-
-
-/*if (window.location.href.indexOf('screen=ally&mode=members') < 0) {
-    //relocate
-    window.location.assign(game_data.link_base_pure + "ally&mode=members");
-}*/
 // droopa
 var tribeTable = '';
 var rowStart = 1;
